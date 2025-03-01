@@ -1,2 +1,2 @@
-# material_design_nn_functionals
+# material-design-nn-functionals
 Neural network based variational formulation for material design
